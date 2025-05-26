@@ -1,0 +1,11 @@
+1. example algorithms of recursion
+    fibonacci series, factorial finding
+    merge sort, quick sort
+    binary search
+    tree traversal and many tree problems: inorder, preorder, postorder
+    graph traversal: dfs and bfs
+    dynamic programming examples
+    divide and conquer algorithms
+    towers of hanoi
+    backtracking algorithms
+    
